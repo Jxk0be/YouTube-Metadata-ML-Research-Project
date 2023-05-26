@@ -16,9 +16,9 @@
 * **Evaluation** - Model accuracies
     
 ## Repository Structure
-* **COSC426_526_Project.ipynb**
+* [a relative link](COSC426_526_Project.ipynb)
     - All data mining and results were done here.
-* **dataMining_Paper.pdf**
+* [a relative link](dataMining_Paper.pdf)
     - Our two-page abstract detailing our research.
-* **dataMining_Poster.pdf**
+* [a relative link](dataMining_Poster.pdf)
     - Our research poster going into the interest results we uncovered during our project.
