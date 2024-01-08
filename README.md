@@ -21,4 +21,4 @@
 * [Research Paper](dataMining_Paper.pdf)
     - Our two-page abstract detailing our research.
 * [Research Poster](dataMining_Poster.pdf)
-    - Our research poster going into the interest results we uncovered during our project.
+    - Our research poster going into the results we uncovered during our project.
